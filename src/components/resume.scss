@@ -1,0 +1,13 @@
+.image {
+    margin: 2rem 12rem;
+    width: 60rem;
+    height: 80rem;
+    
+    @media (max-width: 768px) {
+      /* Adjust styles for mobile devices */
+      margin: 1rem; /* Example margin for mobile */
+      width: 95%; /* Make the width 100% for mobile */
+      height: auto; /* Allow the height to adjust based on content */
+    }
+  }
+  
