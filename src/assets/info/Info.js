@@ -71,6 +71,8 @@ export const info = {
       'Pandas',
       'NumPy',
       'Matplotlib',
+      'MySQL',
+      'Data Cleaning',
     ],
   },
   hobbies: [
@@ -103,7 +105,7 @@ export const info = {
     {
       title: 'Tableau Dashboard for F.r.i.e.n.d.s. ',
       live: 'https://public.tableau.com/app/profile/nikhil.verma7393/viz/TheOneWithAllStats/Dashboard1#2', // If not applicable, leave it as an empty string
-      source: '', // If not applicable, leave it as an empty string
+      source: 'https://github.com/nikhilverma17/FRIENDS-DASHBOARD', // If not applicable, leave it as an empty string
       paragraph: '"Created a Tableau dashboard for Friends TV series, integrating data from Google, Wikipedia, and the official site. Visualized IMDb ratings, character dialogues per season, and screen appearances, revealing viewer trends and episode popularity. This interactive tool provides deep insights into viewer preferences and character dynamics, enhancing understanding of the sitcoms appeal and narrative structure."',
       image: 'https://i.postimg.cc/NjC0ck4y/Screenshot-2024-07-18-163824.png', // Image URL if available
     }, 
