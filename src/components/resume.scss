@@ -1,7 +1,7 @@
 .image {
     margin: 2rem 12rem;
     width: 60rem;
-    height: 80rem;
+    height: 100rem;
     
     @media (max-width: 768px) {
       /* Adjust styles for mobile devices */
@@ -10,4 +10,28 @@
       height: auto; /* Allow the height to adjust based on content */
     }
   }
-  
+  .resume-container {
+    text-align: center; /* Centers the content horizontally */
+    margin-top: 20px;
+}
+
+.download-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+        background-color: #0056b3;
+    }
+}
+
+.image {
+    max-width: 100%; /* Ensures the image takes up available width */
+    height: auto;
+    border: 1px solid #ddd;
+}
