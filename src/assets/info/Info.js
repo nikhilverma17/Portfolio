@@ -18,7 +18,7 @@ export const info = {
     },
     {
       emoji: '📍',
-      text: 'Presently residing in Palia Kalan, India.',
+      text: 'Presently residing in Bengaluru, India.',
     },
     {
       emoji: '👨🏻‍💻',
@@ -102,19 +102,20 @@ export const info = {
     },
   ],
   portfolio: [
+
+    {
+      title: 'Dashboard for Virat’s Cricket Legacy',
+      live: 'https://www.novypro.com/project/virat-kohli-innings-by-innings',
+      source: 'https://github.com/nikhilverma17/ViratKohlidashboard',
+      paragraph: '"Developed a Power BI dashboard analyzing Virat Kohli’s career across Test, ODI, and T20I formats using ESPN Cricinfo data. Cleaned and transformed data using Power Query, visualized batting performance, opponent breakdown, and ground-wise stats. Created interactive reports with filters and slicers for detailed exploration, providing comprehensive insights into Kohli`s impact on Indian cricket."',
+      image: 'https://i.postimg.cc/m2RkJmNM/Screenshot-2024-09-27-151851.png',
+    },
     {
       title: 'Tableau Dashboard for F.r.i.e.n.d.s. ',
       live: 'https://public.tableau.com/app/profile/nikhil.verma7393/viz/TheOneWithAllStats/Dashboard1#2', // If not applicable, leave it as an empty string
       source: 'https://github.com/nikhilverma17/FRIENDS-DASHBOARD', // If not applicable, leave it as an empty string
       paragraph: '"Created a Tableau dashboard for Friends TV series, integrating data from Google, Wikipedia, and the official site. Visualized IMDb ratings, character dialogues per season, and screen appearances, revealing viewer trends and episode popularity. This interactive tool provides deep insights into viewer preferences and character dynamics, enhancing understanding of the sitcoms appeal and narrative structure."',
       image: 'https://i.postimg.cc/NjC0ck4y/Screenshot-2024-07-18-163824.png', // Image URL if available
-    }, 
-    {
-      title: 'Dashboard for T20 World Cup Statistics',
-      live: ' ',
-      source: 'https://github.com/nikhilverma17/Icc-T20-World-Cup-Stats',
-      paragraph: '"Developed a Power BI dashboard analyzing T20 World Cup (2007-2024) batting and bowling stats using ESPN Cricinfo data. Extracted match details, player performances, and team stats via web scraping and APIs. Designed interactive visualizations with slicers and filters for dynamic data exploration, aiding informed decisions across tournaments."',
-      image: 'https://i.postimg.cc/85mQ11Sy/Screenshot-2024-07-18-164119.png',
     },       
     {
       title: 'Rhythm Sync',

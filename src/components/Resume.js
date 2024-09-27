@@ -7,7 +7,7 @@ function Resume() {
     return (
         <div className="resume-container">
             {/* Download Button above the image */}
-            <a href={resumePdf} download="Resume.pdf" className="download-button">
+            <a href={resumePdf} download="Nikhil Verma.pdf" className="download-button">
                 Download Resume 
             </a>
 
