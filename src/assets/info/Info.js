@@ -104,11 +104,25 @@ export const info = {
   portfolio: [
 
     {
+      title: 'HR Analytics Dashboard',
+      live: 'https://www.novypro.com/project/comprehensive-hr-analytics-dashboard-insights-on-retention-satisfaction-and-workforce-dynamics',
+      source: 'https://github.com/nikhilverma17/hr-analysis-dashboard',
+      paragraph: '"This Power BI HR dashboard highlights key metrics such as attrition rates, job satisfaction, performance ratings, and workforce demographics. It examines turnover trends, satisfaction factors, and compensation insights, providing actionable data for HR decision-making. The dashboard supports strategies to enhance employee engagement, retention, and overall organizational performance with a comprehensive, data-driven approach."',
+      image: 'https://i.postimg.cc/0yT3yM0W/Screenshot-2024-12-03-193921.png',
+    },
+    {
       title: 'Dashboard for Virat’s Cricket Legacy',
       live: 'https://www.novypro.com/project/virat-kohli-innings-by-innings',
       source: 'https://github.com/nikhilverma17/ViratKohlidashboard',
       paragraph: '"Developed a Power BI dashboard analyzing Virat Kohli’s career across Test, ODI, and T20I formats using ESPN Cricinfo data. Cleaned and transformed data using Power Query, visualized batting performance, opponent breakdown, and ground-wise stats. Created interactive reports with filters and slicers for detailed exploration, providing comprehensive insights into Kohli`s impact on Indian cricket."',
       image: 'https://i.postimg.cc/m2RkJmNM/Screenshot-2024-09-27-151851.png',
+    },
+    {
+      title: 'OLIST Store Analysis Dashboard',
+      live: 'https://project.novypro.com/sMtp4p',
+      source: 'https://github.com/nikhilverma17/Olist-Store-Dashboard',
+      paragraph: '"The Olist Store Analysis Dashboard, providing insights into Sales, Logistics, and Quality for the Brazilian e-commerce platform. The dashboard reveals R$13.41M in total sales, 111K orders, and top-selling categories like fashion and home decor. São Paulo leads regional orders with 93% delivered on time, and only 6.58% delayed. Quality analysis highlights a 4.11 average review score, with top-rated categories being fashion and construction tools."',
+      image: 'https://i.postimg.cc/CLQMJ7wR/Screenshot-2024-12-03-204130.png',
     },
     {
       title: 'Tableau Dashboard for F.r.i.e.n.d.s. ',
